@@ -1,6 +1,6 @@
 # TestingGround
 HungerGames FPS
-click [here](www.davidrom.com) to see my day job
+click [here](https://github.com/DavidzRom/TestingGround.git) to see my day job
 
 ## Lecture List
 GitHubStuff
